@@ -1,2 +1,2 @@
 # cloud
-spring cloud test
+just test github!
